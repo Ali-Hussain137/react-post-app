@@ -1,0 +1,14 @@
+.card{
+    padding: 3%;
+    margin: 3%;
+    border: 2px solid #ccc;
+}
+
+.grid{
+    width: 80%;
+    margin: auto;
+    max-width: 120rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 1.6rem;
+}
